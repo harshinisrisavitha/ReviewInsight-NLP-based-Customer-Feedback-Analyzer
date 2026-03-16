@@ -3,7 +3,7 @@
 # Restaurant Review Sentiment Analysis
 
 An NLP project that analyzes restaurant customer reviews to determine sentiment using both **classical machine learning** and **transformer-based deep learning models**. The goal is to compare traditional NLP pipelines with modern deep learning approaches and understand how different preprocessing strategies affect performance.
-
+[![Open in Colab](https://colab.research.google.com/drive/1vhqF1eTViI7lh6bhzG-EttZNUV-7Nv5q?usp=sharing)
 ---
 
 # Project Overview
